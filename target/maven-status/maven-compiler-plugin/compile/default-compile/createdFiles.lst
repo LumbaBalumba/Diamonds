@@ -1,0 +1,5 @@
+org\lumbabalumba\diamondcounter\DiamondEvent.class
+org\lumbabalumba\diamondcounter\DiamondCounter.class
+org\lumbabalumba\diamondcounter\Command.class
+org\lumbabalumba\diamondcounter\StartCommand.class
+org\lumbabalumba\diamondcounter\StopCommand.class

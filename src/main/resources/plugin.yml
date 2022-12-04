@@ -1,0 +1,16 @@
+name: DiamondCounter
+version: '${project.version}'
+main: org.lumbabalumba.diamondcounter.DiamondCounter
+api-version: 1.19
+authors: [ LumbaBalumba ]
+description: A plugin that counts how many diamonds players have collected during this minecraft day
+commands:
+  diamonds:
+    usage: /diamonds
+    permission: diamondcounter.counter
+    description: a command that shows how many diamonds were mined during started period
+  start_period:
+    usage: /start_period
+    permission: diamondcounter.counter
+    description: a command that starts a new listening period for diamond counter
+
